@@ -6,7 +6,5 @@
     "sun-cli": "bin/index.js"
   },
   "license": "MIT",
-  "devDependencies": {
-    "standard-version": "^9.3.2"
-  }
+  "devDependencies": {}
 }
