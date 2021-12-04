@@ -1,9 +1,9 @@
 {
   "name": "isun-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "bin": {
-    "sun-cli": "bin/index.js"
+    "isun": "bin/index.js"
   },
   "license": "MIT",
   "devDependencies": {}
