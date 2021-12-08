@@ -1,6 +1,6 @@
 {
   "name": "@isun-cli/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "utils for isun-cli",
   "author": "jgchenu <jgchenu@foxmail.com>",
   "homepage": "",
@@ -18,6 +18,5 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "dependencies": {}
+  }
 }
