@@ -1,6 +1,6 @@
 {
   "name": "@isun-cli/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "core for isun-cli",
   "keywords": [
     "cor"
@@ -23,7 +23,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@isun-cli/utils": "^1.0.2"
+    "@isun-cli/utils": "^1.0.3"
   },
   "gitHead": "fbf2596add4d528bb8a7386aa4bc02ea4f7a9a9c"
 }
